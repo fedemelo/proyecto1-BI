@@ -1,0 +1,8 @@
+langdetect==1.0.9
+inflect==7.0.0
+xlrd
+gensim
+ydata_profiling
+keras
+num2words==0.5.12
+tensorflow
