@@ -15,10 +15,12 @@ pip install -r requirements.txt
 
 https://vimeo.com/874646377/847441f10c?share=copy
 
+La presentación con la cual se realizó el video también se encuentra en el repositorio, titulada: `Presentación Proyecto 1 BI.pdf`
+
 ## Documento
 
 Se encuentra dentro de este repositorio, titulado `Notebook 1 6,7,16.ipynb`
 
 ## Notebook.
 
-Se encuentra dentro de este repositorio.
+Se encuentra dentro de este repositorio, titulado `Proyecto 1, Etapa 1 Analítica de textos.pdf`
