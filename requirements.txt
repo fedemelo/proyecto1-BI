@@ -2,7 +2,11 @@ langdetect==1.0.9
 inflect==7.0.0
 xlrd
 gensim
-ydata_profiling
+fasttext
+ydata_profiling==4.6.0
 keras
 num2words==0.5.12
-tensorflow
+openpyxl
+ipywidgets
+seaborn
+spacy==3.7.1
