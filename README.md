@@ -11,3 +11,14 @@ Para ejecutar el archivo `.ipynb` de forma local, se deben tener instaladas las 
 ```
 pip install -r requirements.txt
 ```
+## Link al video
+
+https://vimeo.com/874646377/847441f10c?share=copy
+
+## Documento
+
+Se encuentra dentro de este repositorio, titulado `Notebook 1 6,7,16.ipynb`
+
+## Notebook.
+
+Se encuentra dentro de este repositorio.
